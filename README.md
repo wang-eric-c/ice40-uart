@@ -1,6 +1,6 @@
 # UART Echo: Lattice iCE40 HX1K (Nandland Go Board)
 
-UART transmitter and receiver written from scratch in Verilog. Any character sent from a PC serial monitor is received by the FPGA and echoed back. No IP cores used — everything is hand written including the baud timing logic.
+UART transmitter and receiver written from scratch in Verilog. Any character sent from a PC serial monitor is received by the FPGA and echoed back. 
 
 ## Hardware
 
