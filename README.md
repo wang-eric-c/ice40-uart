@@ -8,7 +8,6 @@ UART transmitter and receiver written from scratch in Verilog. Any character sen
 - **Clock:** 25 MHz onboard oscillator (pin 15)
 - **UART RX:** Pin 73
 - **UART TX:** Pin 74
-- Both UART pins route through the onboard FTDI USB chip — no external hardware needed
 
 ## UART Settings
 
