@@ -1,0 +1,3 @@
+set_io i_Clk    15
+set_io i_RX     73
+set_io o_TX     74
