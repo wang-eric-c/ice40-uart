@@ -1,0 +1,10 @@
+set_io i_Clk          15
+set_io i_RX           73
+set_io o_TX           74
+set_io o_Segment1_A   2
+set_io o_Segment1_B   1
+set_io o_Segment1_C   90
+set_io o_Segment1_D   91
+set_io o_Segment1_E   93
+set_io o_Segment1_F   4
+set_io o_Segment1_G   3
